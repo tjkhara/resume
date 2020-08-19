@@ -79,3 +79,5 @@ Investment Banking Analyst, New York, New York
 [CS162 C++ Fantasy Combat Game Code](https://bitbucket.org/tajeshwarkhara/cs162_project3_fantasycombatgame/src/master/)
 
 [CS162 C++ Zoo Tycoon Project Code](https://bitbucket.org/tajeshwarkhara/cs162_project2_zootycoon/src/master/)
+
+[CS161 C++ Langton's Ant Project Code](https://bitbucket.org/tajeshwarkhara/langtonsant/src/master/)
