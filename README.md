@@ -81,3 +81,5 @@ Investment Banking Analyst, New York, New York
 [CS162 C++ Zoo Tycoon Project Code](https://bitbucket.org/tajeshwarkhara/cs162_project2_zootycoon/src/master/)
 
 [CS161 C++ Langton's Ant Project Code](https://bitbucket.org/tajeshwarkhara/langtonsant/src/master/)
+
+[Data Structures in C - Spell Checker Application](https://github.com/tjkhara/ds_assignment5_hashMapApplication)
