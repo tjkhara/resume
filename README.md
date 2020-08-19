@@ -2,11 +2,10 @@
 
 ## Interest, skills, and focus
 * Linux
+* Vagrant
 * Git
 * Python
-* PHP
 * AWS
-* Wordpress
 
 ## Programming language experience
 Java, C++, PHP, Python, Javascript, Bash Scripting
