@@ -74,6 +74,8 @@ Investment Banking Analyst, New York, New York
 
 [Projects Repo 2020](https://github.com/tjkhara/projects)
 
-[Oregon State CS162 C++ Fantasy Combat Game Code](https://bitbucket.org/tajeshwarkhara/cs162_project3_fantasycombatgame/src/master/)
+**Oregon State**
 
+[CS162 C++ Fantasy Combat Game Code](https://bitbucket.org/tajeshwarkhara/cs162_project3_fantasycombatgame/src/master/)
 
+[CS162 C++ Zoo Tycoon Project Code](https://bitbucket.org/tajeshwarkhara/cs162_project2_zootycoon/src/master/)
