@@ -1,5 +1,8 @@
 # Tajeshwar (TJ) Singh Khara
 
+## LinkedIn
+[Connect with me](https://www.linkedin.com/in/tjkhara/)
+
 ## Interest, skills, and focus
 * Linux
 * Vagrant
