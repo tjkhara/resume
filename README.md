@@ -4,6 +4,7 @@
 [Connect with me](https://www.linkedin.com/in/tjkhara/)
 
 ## Interest, skills, and focus
+* NodeJS
 * Linux
 * Vagrant
 * Git
@@ -11,7 +12,7 @@
 * AWS
 
 ## Programming language experience
-Java, C++, PHP, Python, Javascript, Bash Scripting
+Javascript (Node JS), Python, Bash Scripting, Java, C++, PHP  
 
 ## Education
 **Oregon State University**
