@@ -1,5 +1,9 @@
 # Tajeshwar (TJ) Singh Khara
 
+## Latest projects showcase
+
+[See here](https://tjkhara.com/category/learning/showcase/)
+
 ## LinkedIn
 [Connect with me](https://www.linkedin.com/in/tjkhara/)
 
